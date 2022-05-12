@@ -1,0 +1,28 @@
+{
+    "token": "Njk3NTExMDQzNTEyOTI2MzE5.Xo4Vxw.HYVLyfa-_PPKpIeY2LUBi3CL1As",
+    "prefix": "!",
+    "channels": {
+        "ticket": {
+            "category_id" : "834305952320454656"
+        },
+        "temporary_channel" : {
+            "category_id" : "835048950130147328",
+            "channel_id": "837203656755511296"
+        },
+        "activities": {
+            "channel_command_id" : "842694135094050817",
+            "category_id" : "836699924673593384",
+            "file_channel_id" : "842756974004797440"
+        },
+        "command": {
+            "channel_command_id" : "837198206579376138",
+            "channel_command_pedago_id" : "842694135094050817"
+        }
+    },
+    "mysqlData": {
+        "host": "localhost",
+        "user": "twixer",
+        "database": "discord_bot",
+        "password": "chocolat26"
+    }
+}
